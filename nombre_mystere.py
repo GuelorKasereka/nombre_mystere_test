@@ -6,8 +6,7 @@
 ##                                                                                                  ##  
 ##     _______________Cet Algorithme est beaucoup plus précis qu'un humain_________________         ##
 ##                                                                                                  ##  
-##                        *** ON PEUT TOUJOURS SE FIER AUX ALGORITHMES ***                          ##        
-##                                                                                                  ##
+##                        *** ON PEUT TOUJOURS SE FIER AUX ALGORITHMES ***                          ## 
 ######################################################################################################
 
 import random
